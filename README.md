@@ -1,2 +1,2 @@
-# Car-Rental-System-Salesforce-project
-CRM application for car rental system
+A CRM APPLICATION FOR LAPTOP RENTALS
+
